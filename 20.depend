@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1495761344 source:c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\20\20\enor.cpp
+	"enor.h"
+	<iostream>
+	<sstream>
+
+1495761198 c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\20\20\enor.h
+	<fstream>
+	<vector>
+	<string>
+
+1495755393 source:c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\20\20\main.cpp
+	<iostream>
+	"enor.h"
+
